@@ -1,0 +1,2 @@
+# lsspec
+Lists computer specs
